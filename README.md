@@ -3,4 +3,5 @@
 - 👀 I’m interested in web developement and education (as well as cooking and reading)
 - 🌱 I’m currently learning about algorithms
 - 💻 I'm currently working on a personal portfolio page
+- :tent: About to start with the **_projects_** for FreeCodeCamp Responsive Web Design Certificate (Legacy) (will post on github as soon as I'm done!)
 - 📫 How to reach me www.linkedin.com/in/rama-kaorma-774096234
