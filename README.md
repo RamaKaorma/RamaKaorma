@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rama!
 - 👩‍🎓 I'm a Bachelor of Science student at The University of Melbourne, majoring in computing and software systems
-- 👀 I’m interested in web developement, databases and education (as well as cooking and reading)
-- 🌱 I’m currently learning about algorithms
-- :tent: I'm currently doing the JavaScript Algorithms and Data Structures Course on FreeCodeCamp
+- 👀 I’m interested in web developement, databases, cyber security and education
+- 🌱 I’m currently learning about algorithms and object oriented programming
+- :tent: I'm currently doing the Relational Database Course on FreeCodeCamp
 - 📫 How to reach me www.linkedin.com/in/rama-kaorma-774096234
