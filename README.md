@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Rama!
-- 👩‍🎓 I'm a Bachelor of Science student at The University of Melbourne, majoring in computing and software systems
-- 👀 I’m interested in web developement, databases, cyber security and education
-- 🌱 I’m currently learning about algorithms and object oriented programming
-- :tent: I'm currently doing the Relational Database Course on FreeCodeCamp
-- 📫 How to reach me www.linkedin.com/in/rama-kaorma-774096234
+👋 Hello, I’m Rama!
+👩‍🎓 I'm a Bachelor of Science (Computing & Software Systems) - Penultimate year
+💼 I'm a 2024 EY vacationer in core consulting - Digital and Emerging Technology through CareerSeekers. 
+👩‍🏫 I'm the Melbourne node co-coordinator at the Girls Programming Network and an Education Officer at CISSA.
+👀 I’m exploring OOP, Operations Research, databases, web dev and education (as of right now)
