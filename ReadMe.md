@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I’m Rama!<br>👩‍🎓 I'm a Bachelor of Science (Computing & Software Systems) student<br>💼 I'm a 2024 EY vacationer in core consulting - Digital and Emerging Technology through CareerSeekers. <br>👩‍🏫 I'm the Melbourne node Coordinator at the Girls Programming Network and the Education Director at CISSA.<br>👀 I’m exploring OOP, Operations Research, databases, web dev and education (as of right now)
+👋 Hello, I’m Rama!<br>👀 I’m exploring OOP, Operations Research, databases, web dev and education (as of right now)
 
 
 ## 🌐 Socials:
